@@ -1,10 +1,11 @@
 import * as React from 'react';
+import Home from './pages/Home';
 import './App.css';
 
 function App() {
 
   return (
-    <h1>Hello World, this is working!</h1>
+   <Home />
   )
 }
 
